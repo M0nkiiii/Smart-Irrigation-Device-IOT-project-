@@ -16,7 +16,7 @@ The following components were used in this project:
 ## Tinkercad Prototype
 You can view and interact with the Tinkercad prototype of the Smart Irrigation System using the link below:
 [Tinkercad Prototype](https://www.tinkercad.com/things/g7tU7n9aOkY-soil-moisture-iot-device)
-![[Soil Moisture IOT Device.png]]
+![Soil Moisture IOT Device](https://github.com/user-attachments/assets/80e47303-b243-49ae-ad9d-4f3cf796975e)
 
 ## Schematic view of the prototype
-![[Pasted image 20241019105909.png]]
+![SchematicView](https://github.com/user-attachments/assets/1d5642c5-85fd-4359-8a78-7b373ea2462d)
